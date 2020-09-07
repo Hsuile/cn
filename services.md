@@ -3,14 +3,14 @@ layout: page
 title: 服務項目
 permalink: /services/
 ---
-## Translation
+## 翻譯 
 
-Reliable, quality translations from Chinese to English. 
+高品質,可信度高的中翻英文件,文稿及論文服務. 
 
-## Editing
+## 校稿 
 
-I can examine your document and improve the quality of writing. This ensures that your ideas are expressed clearly and and your tone is appropriate for the audience.
+檢驗您文章的內容並提升您文件的英文水準! 確認您的構想及理念能夠透過文字精準地傳達給讀者
 
-## Proofreading
+## 潤稿
 
-I will check your grammar, spelling, and punctuation. This removes inconsistencies in language and increases your credibility as an author.
+潤飾您文章的文法及文字使用的準確度, 並移除文章中上文不對下文的情況, 以便增加您身為作者其文章的可信度及可閱讀性

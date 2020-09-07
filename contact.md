@@ -4,9 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-Have a question? Asking is free.
+欢迎来信免费咨询
 
-Contact me with your questions, concerns, or requests. Let's work something out to suit your needs.
+填写以下表格或直接来信接洽！我们一起寻求适合您需求的解决方案！
 
 ### Contact Form
 

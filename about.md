@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## Alexis Hsu
+## Alexis 徐
 
-Chinese to English Translator with three years of translation experience in literature. I am certified in the medical, healthcare, and IT fields.
+三年以上的中文文學類別文章翻譯經驗
+美國專業认证: 醫學，健康療護及IT信息技术證照
+
 
