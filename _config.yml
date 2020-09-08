@@ -19,14 +19,14 @@ url: "https://hsuile.com/" # the base hostname & protocol for your site, e.g. ht
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'Services', link: '/services'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
-  - {name: 'Blog', link: '/blog'}
+  - {name: '首页', link: '/'}
+  - {name: '服務項目', link: '/services'}
+  - {name: '关于', link: '/about'}
+  - {name: '留言', link: '/contact'}
+  - {name: '網誌', link: '/blog'}
 
 tagline: >
-  Currently being built.
+  A chinese version is here! Currently being built.
 
 hero_img: posts/babousan.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
