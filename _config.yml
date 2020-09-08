@@ -7,9 +7,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://hsuile.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
-#social:
-  #name: Your Name
-  #links:
+social:
+  name: Hsuile
+  links:
+    - https://hsuile.com
   #  - https://twitter.com/BenBalter
   #  - https://www.facebook.com/ben.balter
   #  - https://www.linkedin.com/in/BenBalter
@@ -23,12 +24,12 @@ navigation: # Navigation links
   - {name: '服務項目', link: '/services'}
   - {name: '关于', link: '/about'}
   - {name: '留言', link: '/contact'}
-  - {name: '網誌', link: '/blog'}
+#  - {name: '網誌', link: '/blog'}
 
 tagline: >
   A chinese version is here! Currently being built.
 
-hero_img: posts/babousan.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/dallas-reedy-9ibcYkU_rSk-unsplash.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: shyuileh@gmail.com # email for form submission
 
