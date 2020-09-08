@@ -7,10 +7,10 @@ baseurl: "/cn" # the subpath of your site, e.g. /blog
 url: "https://hsuile.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
-social:
-  name: Hsuile
-  links:
-    - https://hsuile.com
+#social:
+#  name: Hsuile
+#  links:
+  #  - https://hsuile.com
   #  - https://twitter.com/BenBalter
   #  - https://www.facebook.com/ben.balter
   #  - https://www.linkedin.com/in/BenBalter
