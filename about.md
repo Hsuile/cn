@@ -10,5 +10,5 @@ permalink: /about/
 
 美國專業认证: 醫學，健康療護及IT信息技术證照
 
-[我的網誌](https://cn.hsuile.com/blog)
+[我的網誌](https://hsuile.com/cn/blog/)
 

@@ -4,7 +4,7 @@ author: Hsuile # You :P
 description: > # Meta description of Homepage
   Website in progress.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://cn.hsuile.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hsuile.com/cn/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 #social:
@@ -27,7 +27,7 @@ navigation: # Navigation links
 #  - {name: '網誌', link: '/blog'}
 
 tagline: >
-  A chinese version is here! Currently being built.
+  Currently being built.
 
 hero_img: posts/dallas-reedy-9ibcYkU_rSk-unsplash.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
